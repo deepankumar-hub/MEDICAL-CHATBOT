@@ -17,10 +17,9 @@ LLM (HuggingFace / Groq)
 Generated Answer
 
 ## Technologies Used
-## Component	             ## Library / Tool
-Embeddings	              SentenceTransformers / OpenAI / InstructorXL
-Vector Store	            FAISS
-LLM Backend	              HuggingFace / Groq
-Framework	                LangChain
-Interface	                Streamlit / CLI
-Language	                Python 3.10+
+Embeddings	         -     SentenceTransformers / OpenAI / InstructorXL
+Vector Store	        -    FAISS
+LLM Backend	          -    HuggingFace / Groq
+Framework	            -    LangChain
+Interface	            -    Streamlit / CLI
+Language	            -    Python 3.10+
